@@ -1,2 +1,4 @@
-# my-repo
-My first repository
+# My First Repository
+My first repo!
+
+Let's give git a bash!
